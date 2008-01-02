@@ -7,6 +7,7 @@ URL:        	http://www.8ung.at/klappnase/scsiaddgui/scsiaddgui.html
 Requires:	python, tkinter, scsiadd
 Group:		System/Kernel and hardware
 Source:		http://www.8ung.at/klappnase/downloads/%{name}-%{version}.tar.bz2
+BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 BuildArch:	noarch
 
 %description
