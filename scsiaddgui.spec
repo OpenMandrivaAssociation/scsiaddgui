@@ -1,7 +1,7 @@
 Summary:	A graphical front end for scsiadd
 Name:		scsiaddgui
 Version:	1.5
-Release:	%mkrel 6
+Release:	7
 License:	GPL
 URL:        	http://www.8ung.at/klappnase/scsiaddgui/scsiaddgui.html
 Requires:	python, tkinter, scsiadd
