@@ -3,7 +3,7 @@ Name:		scsiaddgui
 Version:	1.5
 Release:	7
 License:	GPL
-URL:        	http://www.8ung.at/klappnase/scsiaddgui/scsiaddgui.html
+URL:        	https://www.8ung.at/klappnase/scsiaddgui/scsiaddgui.html
 Requires:	python, tkinter, scsiadd
 Group:		System/Kernel and hardware
 Source:		http://www.8ung.at/klappnase/downloads/%{name}-%{version}.tar.bz2
